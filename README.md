@@ -90,4 +90,4 @@ docs/
 
 ## Status
 
-Actively running on a 4-hour schedule, accumulating a genuine historical time-series across ten cities. Dashboard connects live to the gold layer via Databricks SQL.
+Actively running on a 8-hour schedule, accumulating a genuine historical time-series across ten cities. Dashboard connects live to the gold layer via Databricks SQL.
