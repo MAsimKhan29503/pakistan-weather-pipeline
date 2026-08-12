@@ -1,0 +1,25 @@
+# Terraform
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.*
+terraform/*.tfstate
+terraform/*.tfstate.*
+
+# Terraform crash logs
+terraform/crash.log
+terraform/crash.*.log
+
+# Terraform variable files
+terraform/*.tfvars
+terraform/*.tfvars.json
+
+# Sensitive Terraform files
+*.tfvars
+*.tfvars.json
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
